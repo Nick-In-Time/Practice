@@ -14,6 +14,7 @@ class Die :
 die1 = Die(6)
 print(die1.__str__())
 print(die1.roll())
-#print(die1.roll())
-#print(die1.roll())
-#print(die1.roll())
+print(die1.roll())
+print(die1.roll())
+print(die1.roll())
+
